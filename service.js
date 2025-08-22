@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    let names = ['Orange', 'Melon', 'strawberry', 'peach'];
+    let names = ['Orange', 'Melon', 'Strawberry', 'Peach'];
 
     let expenses = [
         [12, 15, 20],
